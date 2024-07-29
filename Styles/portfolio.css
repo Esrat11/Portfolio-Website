@@ -181,7 +181,7 @@ footer input[type="text"], footer input[type="email"], footer textarea{
         flex-direction: column;
     }
     nav > ul{
-        gap: 10px;
+        gap: 20px;
     }
     .banner{
         margin: 20px;
